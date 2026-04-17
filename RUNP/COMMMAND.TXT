@@ -1,0 +1,1 @@
+PS C:\Users\Anand\OneDrive\Documents\Desktop\PROJECT> python -m src.cli webcam --duration 3

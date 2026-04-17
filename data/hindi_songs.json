@@ -1,0 +1,482 @@
+[
+  {
+    "title": "Zinda",
+    "artist": "Siddharth Mahadevan",
+    "emotion": "happy",
+    "language": "Hindi",
+    "tags": [
+      "motivational",
+      "rock",
+      "energetic"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=Ax0G_P2dSBw&pp=ygUFWmluZGE%3D",
+      "spotify": "https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k?si=41a914e6819c49da"
+    }
+  },
+  {
+    "title": "Phir Se Ud Chala",
+    "artist": "Mohit Chauhan",
+    "emotion": "happy",
+    "language": "Hindi",
+    "tags": [
+      "uplifting",
+      "acoustic",
+      "travel"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=2mWaqsC3U7k&pp=ygUQUGhpciBTZSBVZCBDaGFsYQ%3D%3D",
+      "spotify": "https://open.spotify.com/track/1kcV2LJxt5v0s2cEGtEJ5i?si=9771a8108a2646d7"
+    }
+  },
+  {
+    "title": "Ilahi",
+    "artist": "Arijit Singh",
+    "emotion": "happy",
+    "language": "Hindi",
+    "tags": [
+      "upbeat",
+      "wanderlust"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=fdubeMFwuGs&pp=ygUFSWxhaGk%3D",
+      "spotify": "https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1?si=8731ec9be455429f"
+    }
+  },
+  {
+    "title": "Gallan Goodiyaan",
+    "artist": "Yashita Sharma & Others",
+    "emotion": "happy",
+    "language": "Hindi",
+    "tags": [
+      "dance",
+      "party",
+      "family"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=jCEdTq3j-0U&pp=ygUQR2FsbGFuIEdvb2RpeWFhbtIHCQnZCgGHKiGM7w%3D%3D",
+      "spotify": "https://open.spotify.com/track/7hNYvX0qAKrxtVr1jGDmvR?si=a1ff9ddb1e6e4a4b"
+    }
+  },
+  {
+    "title": "Sham",
+    "artist": "Amit Trivedi",
+    "emotion": "happy",
+    "language": "Hindi",
+    "tags": [
+      "friends",
+      "feel-good"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=kl8T6tsOZJk&pp=ygUEU2hhbQ%3D%3D",
+      "spotify": "https://open.spotify.com/track/5Q58RkKyUafm15Syxg79DW?si=e81abc62dc194d8d"
+    }
+  },
+  {
+    "title": "Agar Tum Saath Ho",
+    "artist": "Alka Yagnik & Arijit Singh",
+    "emotion": "sad",
+    "language": "Hindi",
+    "tags": [
+      "melancholy",
+      "romance"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=xRb8hxwN5zc&pp=ygURQWdhciBUdW0gU2FhdGggSG8%3D",
+      "spotify": "https://open.spotify.com/track/3hkC9EHFZNQPXrtl8WPHnX?si=72cc10b9cc89439b"
+    }
+  },
+  {
+    "title": "Channa Mereya",
+    "artist": "Arijit Singh",
+    "emotion": "sad",
+    "language": "Hindi",
+    "tags": [
+      "heartbreak",
+      "soulful"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=bzSTpdcs-EI&pp=ygUOY2hhbm5hIG1lcmV5YSA%3D",
+      "spotify": "https://open.spotify.com/track/0H2iJVgorRR0ZFgRqGUjUM?si=aaa1d0105ebe4c0e"
+    }
+  },
+  {
+    "title": "Kabira (Encore)",
+    "artist": "Arijit Singh & Harshdeep Kaur",
+    "emotion": "sad",
+    "language": "Hindi",
+    "tags": [
+      "nostalgic",
+      "wedding"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=ta-W16uw7zg&pp=ygUea2FiaXJhIChlbmNvcmUpIC0gaW5zdHJ1bWVudGFs0gcJCdkKAYcqIYzv",
+      "spotify": "https://open.spotify.com/track/3jJ5HgLRNydtLRghjWVaCG?si=12d6ad2dabde4ddb"
+    }
+  },
+  {
+    "title": "Tadap Tadap",
+    "artist": "KK",
+    "emotion": "sad",
+    "language": "Hindi",
+    "tags": [
+      "intense",
+      "classic"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=KwiDJclWo44&pp=ygULVGFkYXAgVGFkYXA%3D",
+      "spotify": "https://open.spotify.com/track/6n6hEYHXBzWfdSzBX20ZRw?si=ced0b1d58c284bb3"
+    }
+  },
+  {
+    "title": "Dil Diyan Gallan",
+    "artist": "Atif Aslam",
+    "emotion": "sad",
+    "language": "Hindi",
+    "tags": [
+      "soft",
+      "romantic"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=SAcpESN_Fk4&pp=ygUQRGlsIERpeWFuIEdhbGxhbg%3D%3D",
+      "spotify": "https://open.spotify.com/track/5MnAi6ZF7cE8pAz7wYr9Ta?si=e3a1be2bbf58431f"
+    }
+  },
+  {
+    "title": "Jee Karda",
+    "artist": "Divya Kumar",
+    "emotion": "angry",
+    "language": "Hindi",
+    "tags": [
+      "pumped",
+      "folk-rock"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=_2HbGh9dTvk&pp=ygUJSmVlIEthcmRh",
+      "spotify": "https://open.spotify.com/track/2F1alKpRT9rPJYy079fRDt?si=0899cae6d6cd419d"
+    }
+  },
+  {
+    "title": "Sadda Haq",
+    "artist": "Mohit Chauhan",
+    "emotion": "angry",
+    "language": "Hindi",
+    "tags": [
+      "rock",
+      "rebellion"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=p9DQINKZxWE&pp=ygUJU2FkZGEgSGFx",
+      "spotify": "https://open.spotify.com/track/7k3jpyYPnVnbO0p7iejWxL?si=4ebfa6329dba4001"
+    }
+  },
+  {
+    "title": "Malhari",
+    "artist": "Vishal Dadlani",
+    "emotion": "angry",
+    "language": "Hindi",
+    "tags": [
+      "warrior",
+      "energetic",
+      "percussion"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=l_MyUGq7pgs&pp=ygUHTWFsaGFyaQ%3D%3D",
+      "spotify": "https://open.spotify.com/track/0kQpLj2M2ngqDnGuFeHvg4?si=eb577056222149ea"
+    }
+  },
+  {
+    "title": "Khoon Chala",
+    "artist": "Mohit Chauhan",
+    "emotion": "angry",
+    "language": "Hindi",
+    "tags": [
+      "protest",
+      "motivational"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=28OJpIA_rNo",
+      "spotify": "https://open.spotify.com/track/56y6UhrAnXeSovZIE497DL?si=34f13be9ff45496e"
+    }
+  },
+  {
+    "title": "Ziddi Dil",
+    "artist": "Vishal Dadlani",
+    "emotion": "angry",
+    "language": "Hindi",
+    "tags": [
+      "determination",
+      "sports"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=puKD3nkB1h4",
+      "spotify": "https://open.spotify.com/track/5abKWMQPFxoZm9pO5TtbR5?si=4946acca947f444f"
+    }
+  },
+  {
+    "title": "Raanjhanaa",
+    "artist": "Jaswinder Singh & Shiraz Uppal",
+    "emotion": "surprise",
+    "language": "Hindi",
+    "tags": [
+      "celebration",
+      "folk"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=75o1iC1OSrE",
+      "spotify": "https://open.spotify.com/track/5OMUXgfXsSukZ0zxelpC3b?si=0a357ed32dc54287"
+    }
+  },
+  {
+    "title": "Subhanallah",
+    "artist": "Sreerama & Shilpa Rao",
+    "emotion": "surprise",
+    "language": "Hindi",
+    "tags": [
+      "romantic",
+      "fresh"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=QYO6AlxiRE4",
+      "spotify": "https://open.spotify.com/track/0GQngE2rOYvlKwEQjTAsP8?si=e5672ab0ff574cc4"
+    }
+  },
+  {
+    "title": "Tera Ban Jaunga",
+    "artist": "Tulsi Kumar & Akhil Sachdeva",
+    "emotion": "surprise",
+    "language": "Hindi",
+    "tags": [
+      "serendipity",
+      "ballad"
+    ],
+    "urls": {
+      "youtube": "http://youtube.com/watch?v=Qdz5n1Xe5Qo",
+      "spotify": "https://open.spotify.com/track/3oWxFNsXstcancCR1wODR4?si=0c7fc00104ce4033"
+    }
+  },
+  {
+    "title": "Matargashti",
+    "artist": "Mohit Chauhan",
+    "emotion": "surprise",
+    "language": "Hindi",
+    "tags": [
+      "playful",
+      "jazzy"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=6vKucgAeF_Q",
+      "spotify": "https://open.spotify.com/track/5GeBgck1MU2tlIkMpsn8uT?si=1c7a90a0afcc4dc3"
+    }
+  },
+  {
+    "title": "Dangal Title Track",
+    "artist": "Daler Mehndi",
+    "emotion": "fear",
+    "language": "Hindi",
+    "tags": [
+      "grit",
+      "training"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=jMfvlh0tjyo",
+      "spotify": "https://open.spotify.com/track/5Ry67OqwCxKbswCxcPHcg9?si=ce17752ca54e4259"
+    }
+  },
+  {
+    "title": "Namo Namo",
+    "artist": "Amit Trivedi",
+    "emotion": "fear",
+    "language": "Hindi",
+    "tags": [
+      "reverence",
+      "power"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=yALvgZi-84o",
+      "spotify": "https://open.spotify.com/track/6DwBCjospi1c9WsRVfoCwN?si=eb011bd04a1245c0"
+    }
+  },
+  {
+    "title": "Akhiyan Udeek Diyan",
+    "artist": "Master Saleem",
+    "emotion": "fear",
+    "language": "Punjabi/Hindi",
+    "tags": [
+      "yearning",
+      "sufi"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=V0Y7RTUSn40",
+      "spotify": "https://open.spotify.com/track/3HihpVQ3bqMqrLZgRSvY4h?si=86ed3a16c05a4114"
+    }
+  },
+  {
+    "title": "Bulleya",
+    "artist": "Papon",
+    "emotion": "fear",
+    "language": "Hindi",
+    "tags": [
+      "sufi",
+      "intense"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=a9Hxkc9YxGE",
+      "spotify": "https://open.spotify.com/track/3tgdOveYac7YMEAQD9sGLf?si=f334746e803d410b"
+    }
+  },
+  {
+    "title": "Tu Hai",
+    "artist": "A. R. Rahman",
+    "emotion": "fear",
+    "language": "Hindi",
+    "tags": [
+      "ethereal",
+      "mystique"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=UiN3AY7bdBg",
+      "spotify": "https://open.spotify.com/track/3vjkllvtOIKpVvXSWsu1ta?si=ef8678402389490d"
+    }
+  },
+  {
+    "title": "Raabta",
+    "artist": "Arijit Singh",
+    "emotion": "neutral",
+    "language": "Hindi",
+    "tags": [
+      "romantic",
+      "mid-tempo"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=zlt38OOqwDc",
+      "spotify": "https://open.spotify.com/track/6FjbAnaPRPwiP3sciEYctO?si=9dcbbe81d6674f17"
+    }
+  },
+  {
+    "title": "Zara Zara",
+    "artist": "Bombay Jayashri",
+    "emotion": "neutral",
+    "language": "Hindi",
+    "tags": [
+      "soothing",
+      "romantic"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=P3Gqf-XrdPA",
+      "spotify": "https://open.spotify.com/track/7wrYBASu0OoxoDErd4Edxd?si=8bd87a2655ad40b5"
+    }
+  },
+  {
+    "title": "Pehla Nasha",
+    "artist": "Udit Narayan & Sadhana Sargam",
+    "emotion": "neutral",
+    "language": "Hindi",
+    "tags": [
+      "classic",
+      "nostalgic"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=a71xD6RyOok",
+      "spotify": "https://open.spotify.com/track/6cCSo8zu3bRck519ZqRGfk?si=da67032eaf634b17"
+    }
+  },
+  {
+    "title": "Khamoshiyan",
+    "artist": "Arijit Singh",
+    "emotion": "neutral",
+    "language": "Hindi",
+    "tags": [
+      "ambient",
+      "contemporary"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=Mv3SZDP7QUo",
+      "spotify": "https://open.spotify.com/track/6zCQF5tu7HVwU9shhKqiuF?si=a844742fc1ef4b51"
+    }
+  },
+  {
+    "title": "Raat Bhar",
+    "artist": "Arijit Singh & Shreya Ghoshal",
+    "emotion": "neutral",
+    "language": "Hindi",
+    "tags": [
+      "lounge",
+      "groove"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=AYcxiROIktI",
+      "spotify": "https://open.spotify.com/track/3ctaMit7CuiHIPVYrRvm15?si=e959cfe75b1c461c"
+    }
+  },
+  {
+    "title": "Humnava Mere",
+    "artist": "Jubin Nautiyal",
+    "emotion": "disgust",
+    "language": "Hindi",
+    "tags": [
+      "yearning",
+      "intense"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=TqR_jWfHW4g",
+      "spotify": "https://open.spotify.com/track/0loZn1c5heXie7OAtvK6nH?si=50b9d986ffd447f3"
+    }
+  },
+  {
+    "title": "Aashiq Banaya Aapne (Reprise)",
+    "artist": "Neha Kakkar",
+    "emotion": "disgust",
+    "language": "Hindi",
+    "tags": [
+      "dark",
+      "sensual"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=zNMGiMg75zg",
+      "spotify": "https://open.spotify.com/track/61mkuGe4SjLAZ5wg49NWQY?si=1516a17c38c84b5a"
+    }
+  },
+  {
+    "title": "Bhula Dena",
+    "artist": "Mustafa Zahid",
+    "emotion": "disgust",
+    "language": "Hindi",
+    "tags": [
+      "closure",
+      "breakup"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=II4CvWvgIsI",
+      "spotify": "https://open.spotify.com/track/0WNCYgCd33LnBnw22WFuq8?si=39ebd9daa8ef484c"
+    }
+  },
+  {
+    "title": "Rip It Up (Desi)",
+    "artist": "Ritviz",
+    "emotion": "disgust",
+    "language": "Hindi/English",
+    "tags": [
+      "electronic",
+      "edgy"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=MbJ72KO5khs",
+      "spotify": "https://open.spotify.com/track/4P8LTk17xAqK5gTvcO0XtX?si=ceaa9b76d8f84eae"
+    }
+  },
+  {
+    "title": "Yaad Hai Na",
+    "artist": "Amaal Mallik & Arijit Singh",
+    "emotion": "disgust",
+    "language": "Hindi",
+    "tags": [
+      "bittersweet",
+      "slow"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=_FRbTRnPFnY",
+      "spotify": "https://open.spotify.com/track/7nbGvjZBJssfZUVj2tw5kr?si=c06d392286ba4bad"
+    }
+  }
+]

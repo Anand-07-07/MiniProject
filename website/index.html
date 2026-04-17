@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emotion Music Recommender</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark">🎧</span>
+        <div>
+          <p class="brand-title">MoodBeat</p>
+          <p class="brand-subtitle">Emotion-powered Hindi music recommender</p>
+        </div>
+      </div>
+      <nav class="nav-links">
+        <a href="#features">Features</a>
+        <a href="#setup">Setup</a>
+        <a href="#usage">Usage</a>
+        <a href="#catalogue">Catalogue</a>
+        <a href="#faq">FAQ</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" id="home">
+        <div class="hero-copy">
+          <span class="eyebrow">Mini Project II</span>
+          <h1>Turn your mood into a perfect Hindi song playlist.</h1>
+          <p>Experience a fresh music discovery interface that detects emotion from webcam, image, or voice and recommends songs from curated Hindi and Marathi catalogues.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#setup">Get Started</a>
+            <a class="button button-secondary" href="../README.md">Project Docs</a>
+          </div>
+        </div>
+        <div class="hero-panel">
+          <div class="glass-card top-card">
+            <p class="tag">Modern Setup</p>
+            <h2>Fast install in three steps</h2>
+            <pre><code>python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt</code></pre>
+          </div>
+          <div class="stat-grid">
+            <div class="stat-card">
+              <strong>3</strong>
+              <span>Input modes</span>
+            </div>
+            <div class="stat-card">
+              <strong>2</strong>
+              <span>Languages supported</span>
+            </div>
+            <div class="stat-card">
+              <strong>7</strong>
+              <span>Emotion categories</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-block" id="features">
+        <div class="section-intro">
+          <p class="eyebrow">What makes it special</p>
+          <h2>Smart mood discovery with memorable style</h2>
+          <p>From a webcam smile to a vocal tone, the app captures emotion and maps it to curated streaming links across Spotify and YouTube.</p>
+        </div>
+        <div class="feature-grid">
+          <article class="feature-card">
+            <span class="feature-icon">📷</span>
+            <h3>Webcam emotion detection</h3>
+            <p>Real-time mood analysis from webcam frames with smoothing for stable recommendations.</p>
+          </article>
+          <article class="feature-card">
+            <span class="feature-icon">🖼️</span>
+            <h3>Static image input</h3>
+            <p>Upload a portrait image and let the model infer a matching emotion for song suggestions.</p>
+          </article>
+          <article class="feature-card">
+            <span class="feature-icon">🎤</span>
+            <h3>Voice emotion mode</h3>
+            <p>Capture mood from your voice and receive tailored Hindi or Marathi track recommendations.</p>
+          </article>
+          <article class="feature-card">
+            <span class="feature-icon">🎵</span>
+            <h3>Curated song catalogue</h3>
+            <p>Emotion-aware playlists built from curated Hindi and Marathi song data in JSON format.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section-block section-alt" id="workflow">
+        <div class="section-intro">
+          <p class="eyebrow">How it works</p>
+          <h2>Emotion detection flows in three simple steps</h2>
+        </div>
+        <div class="workflow-grid">
+          <div class="workflow-step">
+            <span>1</span>
+            <h4>Capture your mood</h4>
+            <p>Choose webcam, photo, or audio input to reveal the listener's emotional state.</p>
+          </div>
+          <div class="workflow-step">
+            <span>2</span>
+            <h4>Analyze emotion</h4>
+            <p>The detector estimates one of seven emotions and computes confidence for stable suggestions.</p>
+          </div>
+          <div class="workflow-step">
+            <span>3</span>
+            <h4>Receive music</h4>
+            <p>The recommender selects top songs and returns Spotify/YouTube links so you can listen immediately.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-block" id="setup">
+        <div class="section-intro">
+          <p class="eyebrow">Setup guide</p>
+          <h2>Install and run the app on Windows</h2>
+        </div>
+        <div class="setup-grid">
+          <div class="setup-card">
+            <h3>Install dependencies</h3>
+            <pre><code>python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install --upgrade pip
+pip install -r requirements.txt</code></pre>
+          </div>
+          <div class="setup-card">
+            <h3>Run modes</h3>
+            <ul>
+              <li><code>python -m src.cli webcam --duration 6</code></li>
+              <li><code>python -m src.cli image --image path\to\portrait.jpg</code></li>
+              <li><code>python -m src.cli audio --duration 5</code></li>
+            </ul>
+          </div>
+          <div class="setup-card">
+            <h3>Language & catalogue</h3>
+            <p>Select Hindi or Marathi using <code>--language hindi</code> or <code>--language marathi</code>. Use <code>--catalogue</code> to load a custom JSON file.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-block" id="usage">
+        <div class="section-intro">
+          <p class="eyebrow">Usage examples</p>
+          <h2>Commands for every workflow</h2>
+        </div>
+        <div class="usage-grid">
+          <div class="usage-card">
+            <h4>Webcam mode</h4>
+            <p>Live mood detection with optional feed display.</p>
+            <pre><code>python -m src.cli webcam --duration 6 --auto-play</code></pre>
+          </div>
+          <div class="usage-card">
+            <h4>Image mode</h4>
+            <p>Detect emotion from a saved portrait image.</p>
+            <pre><code>python -m src.cli image --image assets\portrait.jpg --language hindi</code></pre>
+          </div>
+          <div class="usage-card">
+            <h4>Audio mode</h4>
+            <p>Infer mood from microphone recording and recommend a track.</p>
+            <pre><code>python -m src.cli audio --duration 5 --language marathi --auto-play-platform youtube</code></pre>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-block section-alt" id="catalogue">
+        <div class="section-intro">
+          <p class="eyebrow">Song catalogues</p>
+          <h2>Hindi and Marathi playlists ready to explore</h2>
+          <p>Built from curated JSON data, each track is labeled with emotion tags and streaming links.</p>
+        </div>
+        <div class="catalogue-grid">
+          <article class="catalogue-card">
+            <h3>Hindi songs</h3>
+            <p><strong>data/hindi_songs.json</strong></p>
+            <p>Rich Hindi playlist with happy, sad, angry, surprise, fear, neutral, and disgust moods.</p>
+          </article>
+          <article class="catalogue-card">
+            <h3>Marathi songs</h3>
+            <p><strong>data/marathi_songs.json</strong></p>
+            <p>Use the Marathi catalogue to extend the recommendation experience in a second language.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section-block" id="faq">
+        <div class="section-intro">
+          <p class="eyebrow">Questions answered</p>
+          <h2>Project details at a glance</h2>
+        </div>
+        <div class="faq-grid">
+          <article class="faq-card">
+            <h4>Does it play music directly?</h4>
+            <p>No. It opens Spotify or YouTube links in your browser so you can play the music there.</p>
+          </article>
+          <article class="faq-card">
+            <h4>Can I add more songs?</h4>
+            <p>Yes. Add entries to <code>data/hindi_songs.json</code> or use a custom JSON catalogue via <code>--catalogue</code>.</p>
+          </article>
+          <article class="faq-card">
+            <h4>What if detection is low confidence?</h4>
+            <p>Use better lighting for webcam mode, choose a clearer portrait, or adjust <code>--min-confidence</code>.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Built for Mini Project II · Static project website with complete setup & usage guide.</p>
+      <p>Open <code>README.md</code> for full source details and tests.</p>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

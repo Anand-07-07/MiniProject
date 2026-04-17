@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Zingaat",
+    "artist": "Ajay-Atul",
+    "emotion": "happy",
+    "language": "Marathi",
+    "tags": [
+      "dance",
+      "party",
+      "energetic"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=2gcsgfzqN8k&pp=ygUHWmluZ2FhdA%3D%3D",
+      "spotify": "https://open.spotify.com/track/3TysRQuZRfhXZ6P8T09YdO?si=cd1d176155b847d0"
+    }
+  },
+  {
+    "title": "Apsara Aali",
+    "artist": "Avadhoot Gupte",
+    "emotion": "happy",
+    "language": "Marathi",
+    "tags": [
+      "festival",
+      "folk",
+      "upbeat"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=mW67u_hWiSo&pp=ygULQXBzYXJhIEFhbGk%3D",
+      "spotify": "https://open.spotify.com/track/7uWt6BU9XnA6izKKjHtMwG?si=78d6cef1a0aa4ad2"
+    }
+  },
+  {
+    "title": "Mala Ved Lagale",
+    "artist": "Ajay Gogavale, Shreya Ghoshal",
+    "emotion": "happy",
+    "language": "Marathi",
+    "tags": [
+      "romantic",
+      "feel-good"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=VKpsJJ9rC3I&pp=ygUPTWFsYSBWZWQgTGFnYWxl",
+      "spotify": "https://open.spotify.com/track/0YZfO7T9Wv02qsNeWxtzQz?si=398ba74ba5cb4d4e"
+    }
+  },
+  {
+    "title": "Sairat Zaala Ji",
+    "artist": "Ajay Gogavale, Shreya Ghoshal",
+    "emotion": "sad",
+    "language": "Marathi",
+    "tags": [
+      "romantic",
+      "heartbreak"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=ZL3MnrnLLpo&pp=ygUPU2FpcmF0IFphYWxhIEpp",
+      "spotify": "7sX1kjTzKa9Q0Uk5Z2B3jVhttps://open.spotify.com/track/3Hmq8bn6gYlmHSuWadZnFB?si=0e17a3a35a1b48c4"
+    }
+  },
+  {
+    "title": "Dhaga Dhaga",
+    "artist": "Vinod Rathod",
+    "emotion": "sad",
+    "language": "Marathi",
+    "tags": [
+      "longing",
+      "melancholy"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=6zoKKPTzWUE&pp=ygULRGhhZ2EgRGhhZ2E%3D",
+      "spotify": "https://open.spotify.com/track/2C2sB8gVQFI3XjBPvAFgkA?si=6971192bb535451d"
+    }
+  },
+  {
+    "title": "Kombadi Palali",
+    "artist": "Avadhoot Gupte",
+    "emotion": "happy",
+    "language": "Marathi",
+    "tags": [
+      "folk",
+      "fun"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=piORdqwIfwY&pp=ygUOS29tYmFkaSBQYWxhbGk%3D",
+      "spotify": "0U3fHGs9xX0JJD4a6S6v2K"
+    }
+  },
+  {
+    "title": "Aala Aala Re",
+    "artist": "Ajay-Atul",
+    "emotion": "angry",
+    "language": "Marathi",
+    "tags": [
+      "intense",
+      "powerful"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=vfATT9rHMlg&pp=ygUMQWFsYSBBYWxhIFJl",
+      "spotify": "3L9f8QO2f1A45PTlqZPxA6"
+    }
+  },
+  {
+    "title": "Mogra Phulala",
+    "artist": "Ajay Gogavale, Shreya Ghoshal",
+    "emotion": "neutral",
+    "language": "Marathi",
+    "tags": [
+      "soft",
+      "calm"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=W2DGUX1xAks&pp=ygUNTW9ncmEgUGh1bGFsYQ%3D%3D",
+      "spotify": "2K7iC1lFMWnQJY8jJ5GpQ1"
+    }
+  },
+  {
+    "title": "Sang Sang Bholanath",
+    "artist": "Ajay-Atul",
+    "emotion": "surprise",
+    "language": "Marathi",
+    "tags": [
+      "dramatic",
+      "epic"
+    ],
+    "urls": {
+      "youtube": "https://www.youtube.com/watch?v=Ru7IWs-QbZk&pp=ygUTU2FuZyBTYW5nIEJob2xhbmF0aA%3D%3D",
+      "spotify": "1aDsk5zGZQj2YfrzL7uv6e"
+    }
+  }
+]
